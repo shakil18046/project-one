@@ -1,0 +1,23 @@
+.product img {
+  width: 90%;
+  padding: 20px;
+  border-radius: 8px;
+}
+.product {
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+}
+.product_name {
+  font-weight: 400;
+  font-size: 21px;
+}
+.product_info {
+  padding: 20px;
+  margin-bottom: 15px;
+}
+.btn_cart {
+  width: 100%;
+  background-color: #ffe0b3;
+  border: none;
+  cursor: pointer;
+}

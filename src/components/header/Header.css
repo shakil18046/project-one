@@ -1,0 +1,25 @@
+.header {
+  padding: 20px;
+  background-color: #1c2b35;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1440px;
+  margin: auto;
+}
+.nav_item {
+  display: inline-block;
+  list-style-type: none;
+}
+.nav_item:not(:last-child) {
+  margin-right: 25px;
+}
+.nav_item_link {
+  text-decoration: none;
+  color: #ffffff;
+}
+.nav_item_link:hover {
+  color: orange;
+}
